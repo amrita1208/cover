@@ -40,7 +40,7 @@ cover.html
         <link href="style.css" rel="stylesheet">
     </head>
     <body>
-        <i>
+        
             <div class="cover">
                 <h1>About the Book</h1>
         <hr>
@@ -68,7 +68,7 @@ cover.html
         </div>
          <div class="footer">
             <span>&copy SEC Publishers- Printed in India</span>
-            </i>
+            
             <b>
              <div class="price">  
              <span>PRICE: Rs.350</span>
@@ -171,7 +171,7 @@ span
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
