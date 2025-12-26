@@ -171,7 +171,7 @@ span
 ```
 
 ## OUTPUT:
-![alt text](image-1.png)
+![alt text](<Screenshot (31).png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
