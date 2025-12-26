@@ -1,5 +1,5 @@
 # Ex.05 Book Cover Page Design
-## Date:17-12-2025
+## Date:26-12-2025
 
 ## AIM:
 To design a book back cover page using HTML and CSS.
@@ -54,7 +54,7 @@ cover.html
         <br>
         <br>
         <div class="container">
-            Artificial intelligence turns data into knowledge and ideas into action.”
+            Artificial intelligence turns data into knowledge and ideas into action
         </div>
         <br>
         <br>
